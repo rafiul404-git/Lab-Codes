@@ -1,0 +1,4 @@
+employee1,1234,Masud,1,Officer,01654326543,etgmengten@eriferi.com
+employee2,1234,Maruf,2,tutor,0176543654,ergerg@frtrg
+shuvo,1234,Shuvo,911,cse,09876432,wegyfegwy@ger
+bithi,1234,Bithi,223,Tutor,01234567890,bithi.cse@diu.edu.bd
